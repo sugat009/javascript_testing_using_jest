@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate testing using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "author": "sugat009",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}
